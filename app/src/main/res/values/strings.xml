@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Controle Acesso</string>
+    <string name="buttonConfig_txt">Configuração</string>
+    <string name="buttonExit_txt">Exit</string>
+    <string name="buttonEntrar_txt">Entrar</string>
+    <string name="buttonSair_txt">Sair</string>
+    <string name="TextViewName_txt">Name</string>
+    <string name="TextViewPassword_txt">Password</string>
+    <string name="buttonCancel_txt">Cancel</string>
+    <string name="buttonConfirm_txt">Confirm</string>
+    <string name="textViewUserName_txt">User Name:</string>
+    <string name="textViewPasswordDef1">Password</string>
+    <string name="textViewPasswordDef2">Password</string>
+</resources>
