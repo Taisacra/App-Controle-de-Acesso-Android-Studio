@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         EditText textName = view.findViewById(R.id.editTextTextNameLogin);
         EditText textPassword = view.findViewById(R.id.editTextTextPasswordLogin);
         AlertDialog dialog = builder.create(); //constroi o dialog com o que foi configurado
+        dialog.setCancelable(false);
         dialog.show();
 
         dialog.getWindow().setLayout(
